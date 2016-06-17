@@ -1,0 +1,1 @@
+# Store-of-2-layers-MVC-Ninject-nUnit-Moq-EntityFramework
